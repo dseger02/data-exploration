@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/b76552a2a88d4789b1f68d83a2edcadb/artifacts
+end_time: 1681300605546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b76552a2a88d4789b1f68d83a2edcadb
+run_name: polite-worm-496
+run_uuid: b76552a2a88d4789b1f68d83a2edcadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300600970
+status: 3
+tags: []
+user_id: danielseger

@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/4708be595aa446d69e3a2b82a4b6f338/artifacts
+end_time: 1681300674734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4708be595aa446d69e3a2b82a4b6f338
+run_name: delicate-loon-325
+run_uuid: 4708be595aa446d69e3a2b82a4b6f338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300671378
+status: 3
+tags: []
+user_id: danielseger

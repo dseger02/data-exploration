@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/7099d575a70941bb9a553e2ff9e95387/artifacts
+end_time: 1681300775028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7099d575a70941bb9a553e2ff9e95387
+run_name: delicate-cod-214
+run_uuid: 7099d575a70941bb9a553e2ff9e95387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300772334
+status: 3
+tags: []
+user_id: danielseger

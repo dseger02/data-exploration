@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/0763f489992f486798af77bb93b9dc0d/artifacts
+end_time: 1681300828578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0763f489992f486798af77bb93b9dc0d
+run_name: likeable-dolphin-846
+run_uuid: 0763f489992f486798af77bb93b9dc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300824117
+status: 3
+tags: []
+user_id: danielseger

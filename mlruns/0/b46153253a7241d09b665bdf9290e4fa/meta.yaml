@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/b46153253a7241d09b665bdf9290e4fa/artifacts
+end_time: 1681300573570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b46153253a7241d09b665bdf9290e4fa
+run_name: marvelous-foal-213
+run_uuid: b46153253a7241d09b665bdf9290e4fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300570232
+status: 3
+tags: []
+user_id: danielseger

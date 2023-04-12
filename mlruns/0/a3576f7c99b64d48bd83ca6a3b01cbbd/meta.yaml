@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/a3576f7c99b64d48bd83ca6a3b01cbbd/artifacts
+end_time: 1681300612056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3576f7c99b64d48bd83ca6a3b01cbbd
+run_name: indecisive-sheep-519
+run_uuid: a3576f7c99b64d48bd83ca6a3b01cbbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300608173
+status: 3
+tags: []
+user_id: danielseger

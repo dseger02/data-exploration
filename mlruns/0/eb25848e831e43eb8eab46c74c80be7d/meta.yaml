@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/eb25848e831e43eb8eab46c74c80be7d/artifacts
+end_time: 1681300634845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb25848e831e43eb8eab46c74c80be7d
+run_name: tasteful-trout-63
+run_uuid: eb25848e831e43eb8eab46c74c80be7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300630908
+status: 3
+tags: []
+user_id: danielseger

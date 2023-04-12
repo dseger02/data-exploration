@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/9c3a1a6a790b493bbb98ec59f0e903d9/artifacts
+end_time: 1681300706555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c3a1a6a790b493bbb98ec59f0e903d9
+run_name: fun-bird-88
+run_uuid: 9c3a1a6a790b493bbb98ec59f0e903d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300703613
+status: 3
+tags: []
+user_id: danielseger

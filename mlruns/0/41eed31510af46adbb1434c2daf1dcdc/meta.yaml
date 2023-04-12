@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/41eed31510af46adbb1434c2daf1dcdc/artifacts
+end_time: 1681300749768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41eed31510af46adbb1434c2daf1dcdc
+run_name: big-whale-193
+run_uuid: 41eed31510af46adbb1434c2daf1dcdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300744622
+status: 3
+tags: []
+user_id: danielseger

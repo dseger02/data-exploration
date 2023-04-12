@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/dd1bfcd39f6646daaa0bdb607ad0ab13/artifacts
+end_time: 1681300763478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd1bfcd39f6646daaa0bdb607ad0ab13
+run_name: mercurial-smelt-667
+run_uuid: dd1bfcd39f6646daaa0bdb607ad0ab13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300760621
+status: 3
+tags: []
+user_id: danielseger

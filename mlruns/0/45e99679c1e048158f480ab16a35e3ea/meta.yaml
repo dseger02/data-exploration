@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/45e99679c1e048158f480ab16a35e3ea/artifacts
+end_time: 1681300642318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45e99679c1e048158f480ab16a35e3ea
+run_name: adorable-stoat-700
+run_uuid: 45e99679c1e048158f480ab16a35e3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300639500
+status: 3
+tags: []
+user_id: danielseger

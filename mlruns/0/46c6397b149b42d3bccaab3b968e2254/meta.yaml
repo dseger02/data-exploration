@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/46c6397b149b42d3bccaab3b968e2254/artifacts
+end_time: 1681300524010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46c6397b149b42d3bccaab3b968e2254
+run_name: dazzling-auk-164
+run_uuid: 46c6397b149b42d3bccaab3b968e2254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300517610
+status: 3
+tags: []
+user_id: danielseger

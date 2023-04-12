@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/0e1bd3edb12c41bc9814ff2ce97c047f/artifacts
+end_time: 1681300664017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e1bd3edb12c41bc9814ff2ce97c047f
+run_name: angry-colt-473
+run_uuid: 0e1bd3edb12c41bc9814ff2ce97c047f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300660537
+status: 3
+tags: []
+user_id: danielseger

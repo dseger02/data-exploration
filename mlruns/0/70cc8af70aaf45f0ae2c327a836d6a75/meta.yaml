@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/70cc8af70aaf45f0ae2c327a836d6a75/artifacts
+end_time: 1681300660532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70cc8af70aaf45f0ae2c327a836d6a75
+run_name: righteous-bass-565
+run_uuid: 70cc8af70aaf45f0ae2c327a836d6a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300653482
+status: 3
+tags: []
+user_id: danielseger

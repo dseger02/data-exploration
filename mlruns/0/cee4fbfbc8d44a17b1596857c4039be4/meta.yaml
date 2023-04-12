@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/cee4fbfbc8d44a17b1596857c4039be4/artifacts
+end_time: 1681300564800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cee4fbfbc8d44a17b1596857c4039be4
+run_name: painted-robin-545
+run_uuid: cee4fbfbc8d44a17b1596857c4039be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300561368
+status: 3
+tags: []
+user_id: danielseger

@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/0/8d54891031dd45dfae475df55dbee683/artifacts
+end_time: 1681300728568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d54891031dd45dfae475df55dbee683
+run_name: bald-duck-922
+run_uuid: 8d54891031dd45dfae475df55dbee683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681300725702
+status: 3
+tags: []
+user_id: danielseger
