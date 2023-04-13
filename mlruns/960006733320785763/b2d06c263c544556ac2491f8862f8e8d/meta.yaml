@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/b2d06c263c544556ac2491f8862f8e8d/artifacts
+end_time: 1681396614477
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: b2d06c263c544556ac2491f8862f8e8d
+run_name: learned-perch-249
+run_uuid: b2d06c263c544556ac2491f8862f8e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396611283
+status: 3
+tags: []
+user_id: danielseger

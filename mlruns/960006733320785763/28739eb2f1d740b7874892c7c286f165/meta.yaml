@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/28739eb2f1d740b7874892c7c286f165/artifacts
+end_time: 1681396620982
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 28739eb2f1d740b7874892c7c286f165
+run_name: selective-stag-35
+run_uuid: 28739eb2f1d740b7874892c7c286f165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396618348
+status: 3
+tags: []
+user_id: danielseger

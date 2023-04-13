@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/14f7ca1fe96942d4a6bb527825dc9efa/artifacts
+end_time: 1681396577594
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 14f7ca1fe96942d4a6bb527825dc9efa
+run_name: skittish-toad-0
+run_uuid: 14f7ca1fe96942d4a6bb527825dc9efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396574176
+status: 3
+tags: []
+user_id: danielseger

@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/1d1b472cff8d4237b813ed60a79bbb6b/artifacts
+end_time: 1681396568663
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 1d1b472cff8d4237b813ed60a79bbb6b
+run_name: serious-pig-371
+run_uuid: 1d1b472cff8d4237b813ed60a79bbb6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396565022
+status: 3
+tags: []
+user_id: danielseger

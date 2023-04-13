@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/0a1bad01bdd34dba9668f558851186d9/artifacts
+end_time: 1681396482026
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 0a1bad01bdd34dba9668f558851186d9
+run_name: masked-kit-736
+run_uuid: 0a1bad01bdd34dba9668f558851186d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396478469
+status: 3
+tags: []
+user_id: danielseger

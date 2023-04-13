@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/8f131508e4d14b1aa328b77ae1919266/artifacts
+end_time: 1681396676723
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 8f131508e4d14b1aa328b77ae1919266
+run_name: zealous-whale-989
+run_uuid: 8f131508e4d14b1aa328b77ae1919266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396670059
+status: 3
+tags: []
+user_id: danielseger

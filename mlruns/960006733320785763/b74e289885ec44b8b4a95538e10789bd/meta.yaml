@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/b74e289885ec44b8b4a95538e10789bd/artifacts
+end_time: 1681396670053
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: b74e289885ec44b8b4a95538e10789bd
+run_name: selective-roo-376
+run_uuid: b74e289885ec44b8b4a95538e10789bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396665069
+status: 3
+tags: []
+user_id: danielseger

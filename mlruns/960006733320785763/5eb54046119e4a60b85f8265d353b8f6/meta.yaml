@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/5eb54046119e4a60b85f8265d353b8f6/artifacts
+end_time: 1681396618345
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 5eb54046119e4a60b85f8265d353b8f6
+run_name: learned-lamb-963
+run_uuid: 5eb54046119e4a60b85f8265d353b8f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396614480
+status: 3
+tags: []
+user_id: danielseger

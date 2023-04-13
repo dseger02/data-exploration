@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/aa02dad307c942388226f7e5776eab1e/artifacts
+end_time: 1681396466167
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: aa02dad307c942388226f7e5776eab1e
+run_name: agreeable-mule-673
+run_uuid: aa02dad307c942388226f7e5776eab1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396463596
+status: 3
+tags: []
+user_id: danielseger

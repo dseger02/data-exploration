@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/270be1c549b844d1a01f6b9137eeb8fd/artifacts
+end_time: 1681396411013
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 270be1c549b844d1a01f6b9137eeb8fd
+run_name: judicious-croc-245
+run_uuid: 270be1c549b844d1a01f6b9137eeb8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396406496
+status: 3
+tags: []
+user_id: danielseger

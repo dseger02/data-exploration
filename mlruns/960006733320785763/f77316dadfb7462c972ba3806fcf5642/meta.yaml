@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/f77316dadfb7462c972ba3806fcf5642/artifacts
+end_time: 1681396475418
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: f77316dadfb7462c972ba3806fcf5642
+run_name: powerful-mule-812
+run_uuid: f77316dadfb7462c972ba3806fcf5642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396472803
+status: 3
+tags: []
+user_id: danielseger

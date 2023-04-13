@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/4c500d4b66e54efc837c5edce46ac574/artifacts
+end_time: 1681396429848
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 4c500d4b66e54efc837c5edce46ac574
+run_name: masked-stoat-623
+run_uuid: 4c500d4b66e54efc837c5edce46ac574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396427154
+status: 3
+tags: []
+user_id: danielseger

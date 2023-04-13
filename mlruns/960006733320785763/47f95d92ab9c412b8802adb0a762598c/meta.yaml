@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/47f95d92ab9c412b8802adb0a762598c/artifacts
+end_time: 1681396504077
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 47f95d92ab9c412b8802adb0a762598c
+run_name: traveling-newt-257
+run_uuid: 47f95d92ab9c412b8802adb0a762598c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396501378
+status: 3
+tags: []
+user_id: danielseger

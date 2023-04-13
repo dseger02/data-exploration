@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/487f3e592ddb4cb2bc5775d97af0fb73/artifacts
+end_time: 1681396517468
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 487f3e592ddb4cb2bc5775d97af0fb73
+run_name: gentle-doe-308
+run_uuid: 487f3e592ddb4cb2bc5775d97af0fb73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396514289
+status: 3
+tags: []
+user_id: danielseger

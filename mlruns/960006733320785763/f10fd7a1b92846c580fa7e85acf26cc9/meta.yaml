@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/f10fd7a1b92846c580fa7e85acf26cc9/artifacts
+end_time: 1681396653085
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: f10fd7a1b92846c580fa7e85acf26cc9
+run_name: flawless-owl-783
+run_uuid: f10fd7a1b92846c580fa7e85acf26cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396647690
+status: 3
+tags: []
+user_id: danielseger

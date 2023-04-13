@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/4fd0911afa6c4c60a4c97bd0b8e9fbdb/artifacts
+end_time: 1681396561982
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: 4fd0911afa6c4c60a4c97bd0b8e9fbdb
+run_name: smiling-carp-247
+run_uuid: 4fd0911afa6c4c60a4c97bd0b8e9fbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396559427
+status: 3
+tags: []
+user_id: danielseger

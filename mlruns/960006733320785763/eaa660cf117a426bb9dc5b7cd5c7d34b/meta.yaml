@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/960006733320785763/eaa660cf117a426bb9dc5b7cd5c7d34b/artifacts
+end_time: 1681396416053
+entry_point_name: ''
+experiment_id: '960006733320785763'
+lifecycle_stage: active
+run_id: eaa660cf117a426bb9dc5b7cd5c7d34b
+run_name: learned-midge-834
+run_uuid: eaa660cf117a426bb9dc5b7cd5c7d34b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681396411016
+status: 3
+tags: []
+user_id: danielseger
