@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/4f38b8ffd9fc4ceda7c2f4f7482f226d/artifacts
+end_time: 1681413680825
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 4f38b8ffd9fc4ceda7c2f4f7482f226d
+run_name: gaudy-horse-482
+run_uuid: 4f38b8ffd9fc4ceda7c2f4f7482f226d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413673715
+status: 3
+tags: []
+user_id: danielseger

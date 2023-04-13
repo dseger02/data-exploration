@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/b64af402341441158dd48561b21a9372/artifacts
+end_time: 1681414009011
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: b64af402341441158dd48561b21a9372
+run_name: wistful-bee-136
+run_uuid: b64af402341441158dd48561b21a9372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414004593
+status: 3
+tags: []
+user_id: danielseger

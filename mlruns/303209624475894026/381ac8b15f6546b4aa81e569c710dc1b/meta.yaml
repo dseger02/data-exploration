@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/381ac8b15f6546b4aa81e569c710dc1b/artifacts
+end_time: 1681413797267
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 381ac8b15f6546b4aa81e569c710dc1b
+run_name: luxuriant-stoat-112
+run_uuid: 381ac8b15f6546b4aa81e569c710dc1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413793403
+status: 3
+tags: []
+user_id: danielseger

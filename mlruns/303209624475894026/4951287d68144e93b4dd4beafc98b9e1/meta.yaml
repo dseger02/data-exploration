@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/4951287d68144e93b4dd4beafc98b9e1/artifacts
+end_time: 1681414059352
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 4951287d68144e93b4dd4beafc98b9e1
+run_name: likeable-loon-964
+run_uuid: 4951287d68144e93b4dd4beafc98b9e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414054478
+status: 3
+tags: []
+user_id: danielseger

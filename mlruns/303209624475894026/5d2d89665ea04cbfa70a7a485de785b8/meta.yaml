@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/5d2d89665ea04cbfa70a7a485de785b8/artifacts
+end_time: 1681413839035
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 5d2d89665ea04cbfa70a7a485de785b8
+run_name: clumsy-flea-953
+run_uuid: 5d2d89665ea04cbfa70a7a485de785b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413833454
+status: 3
+tags: []
+user_id: danielseger

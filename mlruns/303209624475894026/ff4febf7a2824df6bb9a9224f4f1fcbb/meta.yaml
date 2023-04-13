@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/ff4febf7a2824df6bb9a9224f4f1fcbb/artifacts
+end_time: 1681413723481
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: ff4febf7a2824df6bb9a9224f4f1fcbb
+run_name: dapper-elk-990
+run_uuid: ff4febf7a2824df6bb9a9224f4f1fcbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413719727
+status: 3
+tags: []
+user_id: danielseger

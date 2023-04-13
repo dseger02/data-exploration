@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/606f37192f614e4ca8d7f006b818bc1e/artifacts
+end_time: 1681413856808
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 606f37192f614e4ca8d7f006b818bc1e
+run_name: upset-bug-376
+run_uuid: 606f37192f614e4ca8d7f006b818bc1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413851194
+status: 3
+tags: []
+user_id: danielseger

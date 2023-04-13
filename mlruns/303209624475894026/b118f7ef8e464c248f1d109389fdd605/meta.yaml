@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/b118f7ef8e464c248f1d109389fdd605/artifacts
+end_time: 1681413782038
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: b118f7ef8e464c248f1d109389fdd605
+run_name: trusting-crab-705
+run_uuid: b118f7ef8e464c248f1d109389fdd605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413777797
+status: 3
+tags: []
+user_id: danielseger

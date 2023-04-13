@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/7db9e558438942fa9cfc9ad5986e9de0/artifacts
+end_time: 1681413734136
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 7db9e558438942fa9cfc9ad5986e9de0
+run_name: grandiose-koi-116
+run_uuid: 7db9e558438942fa9cfc9ad5986e9de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413728434
+status: 3
+tags: []
+user_id: danielseger

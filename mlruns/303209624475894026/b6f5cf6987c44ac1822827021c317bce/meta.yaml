@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/b6f5cf6987c44ac1822827021c317bce/artifacts
+end_time: 1681414050264
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: b6f5cf6987c44ac1822827021c317bce
+run_name: intrigued-wasp-318
+run_uuid: b6f5cf6987c44ac1822827021c317bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414044591
+status: 3
+tags: []
+user_id: danielseger

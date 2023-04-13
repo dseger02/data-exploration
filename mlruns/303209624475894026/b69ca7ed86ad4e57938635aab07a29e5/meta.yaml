@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/b69ca7ed86ad4e57938635aab07a29e5/artifacts
+end_time: 1681413738102
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: b69ca7ed86ad4e57938635aab07a29e5
+run_name: dapper-ant-302
+run_uuid: b69ca7ed86ad4e57938635aab07a29e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413734140
+status: 3
+tags: []
+user_id: danielseger

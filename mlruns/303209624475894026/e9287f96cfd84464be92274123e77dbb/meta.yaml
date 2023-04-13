@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/e9287f96cfd84464be92274123e77dbb/artifacts
+end_time: 1681413872977
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: e9287f96cfd84464be92274123e77dbb
+run_name: gifted-mole-939
+run_uuid: e9287f96cfd84464be92274123e77dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413867537
+status: 3
+tags: []
+user_id: danielseger

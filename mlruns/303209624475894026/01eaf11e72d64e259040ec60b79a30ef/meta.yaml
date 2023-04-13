@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/01eaf11e72d64e259040ec60b79a30ef/artifacts
+end_time: 1681413947988
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 01eaf11e72d64e259040ec60b79a30ef
+run_name: funny-goat-998
+run_uuid: 01eaf11e72d64e259040ec60b79a30ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413943072
+status: 3
+tags: []
+user_id: danielseger

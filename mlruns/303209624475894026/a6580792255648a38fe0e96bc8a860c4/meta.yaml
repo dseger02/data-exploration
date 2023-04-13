@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/a6580792255648a38fe0e96bc8a860c4/artifacts
+end_time: 1681413928378
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: a6580792255648a38fe0e96bc8a860c4
+run_name: gentle-gnat-604
+run_uuid: a6580792255648a38fe0e96bc8a860c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413924428
+status: 3
+tags: []
+user_id: danielseger

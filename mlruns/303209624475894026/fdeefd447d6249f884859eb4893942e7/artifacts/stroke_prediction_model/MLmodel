@@ -1,0 +1,19 @@
+artifact_path: stroke_prediction_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.2.0
+model_uuid: cac6ebab627244318d9012bc4e12186a
+run_id: fdeefd447d6249f884859eb4893942e7
+utc_time_created: '2023-04-13 19:22:48.342316'

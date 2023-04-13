@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/c6d46f2ed0ac41f3ad9e4a54b57ebeaa/artifacts
+end_time: 1681413673711
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: c6d46f2ed0ac41f3ad9e4a54b57ebeaa
+run_name: trusting-swan-547
+run_uuid: c6d46f2ed0ac41f3ad9e4a54b57ebeaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413662570
+status: 3
+tags: []
+user_id: danielseger

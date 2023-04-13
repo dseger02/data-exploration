@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/ce85e7f71e4143cba3a51844b02765f7/artifacts
+end_time: 1681414074558
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: ce85e7f71e4143cba3a51844b02765f7
+run_name: dashing-goat-921
+run_uuid: ce85e7f71e4143cba3a51844b02765f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414069585
+status: 3
+tags: []
+user_id: danielseger

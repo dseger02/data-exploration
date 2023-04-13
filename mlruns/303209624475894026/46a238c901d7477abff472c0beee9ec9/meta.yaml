@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/46a238c901d7477abff472c0beee9ec9/artifacts
+end_time: 1681413719722
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 46a238c901d7477abff472c0beee9ec9
+run_name: thundering-cat-873
+run_uuid: 46a238c901d7477abff472c0beee9ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413713531
+status: 3
+tags: []
+user_id: danielseger

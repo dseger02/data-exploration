@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/79783d737b42495ebfb57e30f8bc5c32/artifacts
+end_time: 1681414039588
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 79783d737b42495ebfb57e30f8bc5c32
+run_name: able-shrike-401
+run_uuid: 79783d737b42495ebfb57e30f8bc5c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414035800
+status: 3
+tags: []
+user_id: danielseger

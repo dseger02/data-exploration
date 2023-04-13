@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/c4de73b06ca84c24be1637f637a17ad9/artifacts
+end_time: 1681413693268
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: c4de73b06ca84c24be1637f637a17ad9
+run_name: big-cow-390
+run_uuid: c4de73b06ca84c24be1637f637a17ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413687772
+status: 3
+tags: []
+user_id: danielseger

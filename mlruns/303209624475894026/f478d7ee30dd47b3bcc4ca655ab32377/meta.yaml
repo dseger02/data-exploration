@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/f478d7ee30dd47b3bcc4ca655ab32377/artifacts
+end_time: 1681414095435
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: f478d7ee30dd47b3bcc4ca655ab32377
+run_name: bouncy-flea-953
+run_uuid: f478d7ee30dd47b3bcc4ca655ab32377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414089701
+status: 3
+tags: []
+user_id: danielseger

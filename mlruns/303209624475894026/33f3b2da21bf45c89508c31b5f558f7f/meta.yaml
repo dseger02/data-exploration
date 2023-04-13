@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/33f3b2da21bf45c89508c31b5f558f7f/artifacts
+end_time: 1681413902558
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 33f3b2da21bf45c89508c31b5f558f7f
+run_name: whimsical-sow-390
+run_uuid: 33f3b2da21bf45c89508c31b5f558f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413897423
+status: 3
+tags: []
+user_id: danielseger

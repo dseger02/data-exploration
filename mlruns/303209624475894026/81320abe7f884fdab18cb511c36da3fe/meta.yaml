@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/81320abe7f884fdab18cb511c36da3fe/artifacts
+end_time: 1681413972293
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 81320abe7f884fdab18cb511c36da3fe
+run_name: youthful-grouse-528
+run_uuid: 81320abe7f884fdab18cb511c36da3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413965282
+status: 3
+tags: []
+user_id: danielseger

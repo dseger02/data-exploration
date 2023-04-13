@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/323da3bce10b4b63981b1496860f819f/artifacts
+end_time: 1681413787170
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 323da3bce10b4b63981b1496860f819f
+run_name: intrigued-carp-127
+run_uuid: 323da3bce10b4b63981b1496860f819f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413782043
+status: 3
+tags: []
+user_id: danielseger

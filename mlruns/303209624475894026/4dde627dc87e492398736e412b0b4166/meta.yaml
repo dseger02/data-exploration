@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/4dde627dc87e492398736e412b0b4166/artifacts
+end_time: 1681413959203
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 4dde627dc87e492398736e412b0b4166
+run_name: rebellious-lark-158
+run_uuid: 4dde627dc87e492398736e412b0b4166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413954303
+status: 3
+tags: []
+user_id: danielseger

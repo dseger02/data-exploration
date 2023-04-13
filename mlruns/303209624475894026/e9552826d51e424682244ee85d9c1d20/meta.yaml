@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/e9552826d51e424682244ee85d9c1d20/artifacts
+end_time: 1681413762748
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: e9552826d51e424682244ee85d9c1d20
+run_name: silent-wasp-883
+run_uuid: e9552826d51e424682244ee85d9c1d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413757002
+status: 3
+tags: []
+user_id: danielseger

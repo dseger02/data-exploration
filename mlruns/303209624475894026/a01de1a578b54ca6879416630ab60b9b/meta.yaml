@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/a01de1a578b54ca6879416630ab60b9b/artifacts
+end_time: 1681413708794
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: a01de1a578b54ca6879416630ab60b9b
+run_name: secretive-carp-866
+run_uuid: a01de1a578b54ca6879416630ab60b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413704855
+status: 3
+tags: []
+user_id: danielseger

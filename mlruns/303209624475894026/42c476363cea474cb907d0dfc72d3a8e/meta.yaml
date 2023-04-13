@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/42c476363cea474cb907d0dfc72d3a8e/artifacts
+end_time: 1681413811355
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 42c476363cea474cb907d0dfc72d3a8e
+run_name: rare-newt-335
+run_uuid: 42c476363cea474cb907d0dfc72d3a8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413803374
+status: 3
+tags: []
+user_id: danielseger

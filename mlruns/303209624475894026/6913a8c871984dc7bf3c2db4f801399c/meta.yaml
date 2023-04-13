@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/6913a8c871984dc7bf3c2db4f801399c/artifacts
+end_time: 1681414035795
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 6913a8c871984dc7bf3c2db4f801399c
+run_name: salty-flea-426
+run_uuid: 6913a8c871984dc7bf3c2db4f801399c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681414029667
+status: 3
+tags: []
+user_id: danielseger

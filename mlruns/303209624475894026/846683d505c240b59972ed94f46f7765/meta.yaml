@@ -1,0 +1,16 @@
+artifact_uri: /Users/danielseger/Desktop/Vorlesungsunterlagen SoSe23/Data Exploration
+  Project/abgabe_daniel_seger/sourcecode/mlruns/303209624475894026/846683d505c240b59972ed94f46f7765/artifacts
+end_time: 1681413851188
+entry_point_name: ''
+experiment_id: '303209624475894026'
+lifecycle_stage: active
+run_id: 846683d505c240b59972ed94f46f7765
+run_name: suave-moose-270
+run_uuid: 846683d505c240b59972ed94f46f7765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681413846002
+status: 3
+tags: []
+user_id: danielseger
